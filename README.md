@@ -40,6 +40,6 @@ The goal is to provide decision-makers with a **360° view of sales, customer be
 
 
 ## 📷 Dashboard Preview
-[*(Insert screenshot of your Power BI dashboard here)* ](https://github.com/wijdenmediouni1/Supermarket-Sales/commit/99280ed8d35d7c6976a31ecbb1010c965873cb7d) 
+![Dashboard Preview](https://github.com/wijdenmediouni1/Supermarket-Sales/commit/99280ed8d35d7c6976a31ecbb1010c965873cb7d)
 
 
