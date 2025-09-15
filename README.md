@@ -37,9 +37,7 @@ The goal is to provide decision-makers with a **360° view of sales, customer be
 - Branch  
 - City  
 - Product Line  
-- Customer Type  
-- Gender  
-- Payment Method  
+
 
 ## 📷 Dashboard Preview
 *(Insert screenshot of your Power BI dashboard here)*  
